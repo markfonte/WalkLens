@@ -4,8 +4,6 @@ Team name: seniorz2020
 # WalkLens
 
 ### Building and running Android application
-* All of the code for this project is contained in this top-level directory.
-* Clone the seniorz2020 repository
 * Open the project in Android Studio from this (the "WalkLens") top-level directory.
 * In app/res/values, make an XML values file called *google_maps_api.xml*
 * Delete the starter code in the file
