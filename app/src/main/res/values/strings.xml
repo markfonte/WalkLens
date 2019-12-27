@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WalkLens</string>
+
+
+    <string-array name="setting_names">
+        <item>Notifications</item>
+        <item>Ringer</item>
+        <item>Banner Style</item>
+        <item>Music</item>
+    </string-array>
+
+    <string-array name="setting_notification_styles">
+        <item>Banner</item>
+        <item>Lock Screen</item>
+        <item>Notification Center</item>
+    </string-array>
+
+    <string-array name="number_notifications">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string-array name="distance_options">
+        <item>1 ft</item>
+        <item>5 ft</item>
+        <item>10 ft</item>
+        <item>15 ft</item>
+    </string-array>
+</resources>
