@@ -3,7 +3,16 @@ Team name: seniorz2020
 
 # WalkLens
 
-### Building and running Android application
+#### See https://mark.fonte.com/past_projects for a detailed overview of this project
+
+## Built With
+
+* [Google Maps SDK For Android](https://developers.google.com/maps/documentation/android-sdk/intro) - Embedded map view
+* [Google Roads API](https://developers.google.com/maps/documentation/roads/intro) - Finding nearby roads
+* [Google Cloud Platform](https://console.cloud.google.com/) - Console for configuring all of our APIs
+* [OkHttp](https://square.github.io/okhttp/) - Making HTTP requests from the app
+
+### Building and Running
 * Open the project in Android Studio from this (the "WalkLens") top-level directory.
 * In app/res/values, make an XML values file called *google_maps_api.xml*
 * Delete the starter code in the file
@@ -22,7 +31,6 @@ API key](https://console.cloud.google.com/apis/credentials?folder=&organizationI
 
 ### Folder/File Structure
 
-
 app/src/main/java/fonte/com/walklens/data:
 
 - AppDatabase.kt
@@ -39,7 +47,6 @@ app/src/main/java/fonte/com/walklens/ui/main:
 - SettingsFragment.kt
 - SettingsViewModel.kt
 - SettingsViewModelFactory.kt
-
 
 app/src/main/java/fonte/com/walklens/util:
 
